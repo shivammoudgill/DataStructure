@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*;;
 
 public class Stack_onequeue{
     static Queue<Integer> q = new LinkedList<>();
